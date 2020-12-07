@@ -1,0 +1,23 @@
+form {
+  font-weight: bold;
+  border: 2px solid black;
+  text-align: left;
+  font-size: 14;
+  display: block;
+  align-content: left;
+  padding: 10px;
+  margin: 15px;
+  background-color: beige;
+}
+/*input:invalid {
+  border: 2px solid red;
+}
+
+input:valid {
+  border: 2px solid black;
+}
+
+input:invalid:required {
+  background-image: linear-gradient(to right, rgb, grey);
+}
+*/
