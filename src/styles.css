@@ -4,9 +4,10 @@ form {
   text-align: left;
   font-size: 14;
   display: block;
-  align-content: left;
+  text-align: center;
   padding: 10px;
-  margin: 15px;
+  margin: auto;
+  width: 70%;
   background-color: beige;
 }
 /*input:invalid {

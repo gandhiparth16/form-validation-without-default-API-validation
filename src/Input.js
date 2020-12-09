@@ -57,7 +57,8 @@ const input = (props) => {
 
   return (
     <div
-    // className={classes.Input}
+      style={{ margin: "auto", textAlign: "center", boxSizing: "border-box" }}
+      // className={classes.Input}
     >
       <label
       // className={classes.Label}
